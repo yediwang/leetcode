@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [692. Top K Frequent Words](README.md)
 
