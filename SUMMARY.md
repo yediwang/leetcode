@@ -1,4 +1,5 @@
 # Table of contents
 
-* [692. Top K Frequent Words](README.md)
+* [Leetcode](README.md)
+* [692. Top K Frequent Words](692.-top-k-frequent-words.md)
 
