@@ -7,7 +7,10 @@
   * [2. Add Two Numbers](leetcode/2.-add-two-numbers.md)
   * [138. Copy List with Random Pointer](leetcode/138.-copy-list-with-random-pointer.md)
   * [146. LRU Cache](leetcode/146.-lru-cache.md)
-  * [Untitled](leetcode/untitled.md)
+  * [239. Sliding Window Maximum](leetcode/239.-sliding-window-maximum.md)
+  * [214. Shortest Palindrome](leetcode/214.-shortest-palindrome.md)
+  * [127. Word Ladder](leetcode/127.-word-ladder.md)
+  * [140. Word Break II](leetcode/140.-word-break-ii.md)
 * [Basic Knowledge](leetcode-tip/README.md)
   * [Lambda expression](leetcode-tip/lambda-expression-in-c++.md)
   * [Type Inference](leetcode-tip/type-inference.md)
@@ -15,4 +18,5 @@
   * [Comparison object](leetcode-tip/comparison-object.md)
   * [Binary Search](leetcode-tip/binary-search.md)
   * [Union find](leetcode-tip/union-find.md)
+  * [Topological Sorting](leetcode-tip/untitled.md)
 
