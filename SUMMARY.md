@@ -11,6 +11,8 @@
   * [214. Shortest Palindrome](leetcode/214.-shortest-palindrome.md)
   * [127. Word Ladder](leetcode/127.-word-ladder.md)
   * [140. Word Break II](leetcode/140.-word-break-ii.md)
+  * [189. Rotate Array](leetcode/189.-rotate-array.md)
+  * [168. Excel Sheet Column Title](leetcode/168.-excel-sheet-column-title.md)
 * [Basic Knowledge](leetcode-tip/README.md)
   * [Lambda expression](leetcode-tip/lambda-expression-in-c++.md)
   * [Type Inference](leetcode-tip/type-inference.md)
@@ -19,4 +21,7 @@
   * [Binary Search](leetcode-tip/binary-search.md)
   * [Union find](leetcode-tip/union-find.md)
   * [Topological Sorting](leetcode-tip/untitled.md)
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [322. Coin Change](dynamic-programming/322.-coin-change.md)
+  * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
 
