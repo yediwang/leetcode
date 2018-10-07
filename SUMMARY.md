@@ -13,6 +13,8 @@
   * [140. Word Break II](leetcode/140.-word-break-ii.md)
   * [189. Rotate Array](leetcode/189.-rotate-array.md)
   * [168. Excel Sheet Column Title](leetcode/168.-excel-sheet-column-title.md)
+  * [208. Implement Trie \(Prefix Tree\)](leetcode/208.-implement-trie-prefix-tree.md)
+  * [240. Search a 2D Matrix II](leetcode/240.-search-a-2d-matrix-ii.md)
 * [Basic Knowledge](leetcode-tip/README.md)
   * [Lambda expression](leetcode-tip/lambda-expression-in-c++.md)
   * [Type Inference](leetcode-tip/type-inference.md)
@@ -22,6 +24,7 @@
   * [Union find](leetcode-tip/union-find.md)
   * [Topological Sorting](leetcode-tip/untitled.md)
 * [Dynamic Programming](dynamic-programming/README.md)
+  * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
   * [322. Coin Change](dynamic-programming/322.-coin-change.md)
   * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
 
