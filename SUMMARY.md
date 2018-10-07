@@ -15,6 +15,7 @@
   * [168. Excel Sheet Column Title](leetcode/168.-excel-sheet-column-title.md)
   * [208. Implement Trie \(Prefix Tree\)](leetcode/208.-implement-trie-prefix-tree.md)
   * [240. Search a 2D Matrix II](leetcode/240.-search-a-2d-matrix-ii.md)
+  * [316. Remove Duplicate Letters](leetcode/316.-remove-duplicate-letters.md)
 * [Basic Knowledge](leetcode-tip/README.md)
   * [Lambda expression](leetcode-tip/lambda-expression-in-c++.md)
   * [Type Inference](leetcode-tip/type-inference.md)
