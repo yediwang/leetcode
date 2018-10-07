@@ -25,6 +25,7 @@
   * [Topological Sorting](leetcode-tip/untitled.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [5. Longest Palindromic Substring](dynamic-programming/5.-longest-palindromic-substring.md)
+  * [516. Longest Palindromic Subsequence](dynamic-programming/516.-longest-palindromic-subsequence.md)
   * [322. Coin Change](dynamic-programming/322.-coin-change.md)
   * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
 
